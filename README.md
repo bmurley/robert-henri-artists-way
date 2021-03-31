@@ -1,2 +1,2 @@
 # robert-henri-artists-way
-Materials connected to Robert Henri
+# Robert Henri, _The Artist's Way_ Collected Research Materials
